@@ -17,7 +17,7 @@ function App() {
         setCatGIF(data.data[0].images.original.url)
       
       });
-  
+
     };
 
   const callAPI = () => {
